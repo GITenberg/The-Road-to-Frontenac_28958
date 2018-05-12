@@ -1,0 +1,28 @@
+_repo: The-Road-to-Frontenac_28958
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merwin, Samuel
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '2744'
+    url: http://www.gutenberg.org/2009/agents/2744
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
+description: ''
+gutenberg_issued: '2009-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28958'
+  lccn: 01024840
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History -- To 1763 (New France) -- Fiction'
+- !lcc 'PS'
+title: The Road to Frontenac
+url: http://www.gutenberg.org/ebooks/28958
